@@ -1,0 +1,41 @@
+# Package files - distributed via GitHub Releases
+*.appx
+*.Appx
+*.appxbundle
+*.AppxBundle
+*.msixbundle
+*.Msixbundle
+*.eappxbundle
+*.EAppxBundle
+
+# Keep XML manifest files (they're small)
+!*.xml
+
+# Keep all scripts and documentation
+!*.cmd
+!*.bat
+!*.md
+!*.ps1
+
+# Package directories content
+packages-2019/*.appx
+packages-2019/*.Appx
+packages-2019/*.appxbundle
+packages-2019/*.AppxBundle
+
+packages-2021/*.appx
+packages-2021/*.Appx
+packages-2021/*.appxbundle
+packages-2021/*.AppxBundle
+packages-2021/*.msixbundle
+packages-2021/*.Msixbundle
+
+packages-2024/*.appx
+packages-2024/*.Appx
+packages-2024/*.appxbundle
+packages-2024/*.AppxBundle
+packages-2024/*.msixbundle
+packages-2024/*.Msixbundle
+
+# Keep XML files in package directories
+!packages-*/*.xml
