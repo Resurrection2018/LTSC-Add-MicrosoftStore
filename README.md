@@ -3,7 +3,7 @@ For Windows 10 Enterprise LTSC 2019, 2021 & Windows 11 Enterprise LTSC 2024
 
 ## Supported Versions
 - **Windows 10 LTSC 2019** (Build 17763)
-- **Windows 10 LTSC 2021** (Build 19044/19045)
+- **Windows 10 LTSC 2021** (Build 19044/19045) <-- Windows 10 2032 19044 works perfect
 - **Windows 11 LTSC 2024** (Build 26100)
 
 The script automatically detects your Windows version and uses the appropriate packages.
