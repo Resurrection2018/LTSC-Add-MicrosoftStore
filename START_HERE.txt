@@ -1,0 +1,52 @@
+================================================================================
+STEP 1: Install GitHub CLI Manually
+================================================================================
+
+Since automated installation didn't work, please do this manually:
+
+1. Open your web browser
+
+2. Go to this link:
+   https://github.com/cli/cli/releases/latest
+
+3. Look for a file that ends with .msi (example: gh_2.40.1_windows_amd64.msi)
+   Click on it to download
+
+4. When download finishes, double-click the .msi file
+
+5. Click "Next" through the installer, then "Install"
+
+6. When done, click "Finish"
+
+7. IMPORTANT: Close this Command Prompt window and open a NEW one
+
+8. In the NEW Command Prompt, test by typing:
+   gh --version
+
+   If you see a version number, it worked!
+
+9. Then come back and tell me "done" and I'll continue with Step 2
+
+================================================================================
+ALTERNATIVE: Use GitHub Web Interface (No CLI Needed!)
+================================================================================
+
+If you don't want to install GitHub CLI, you can do everything through the 
+GitHub website instead. Tell me "use web interface" and I'll give you those
+instructions instead.
+
+================================================================================
+OR: Use .gitignore Only (Simplest)
+================================================================================
+
+The SIMPLEST option that requires NO installations:
+- Just use .gitignore to exclude packages from Git
+- Users download packages from other sources
+- Tell me "use gitignore only" if you want this
+
+================================================================================
+
+What would you like to do?
+1. "done" - After you install GitHub CLI manually
+2. "use web interface" - I'll show you how to use GitHub website
+3. "use gitignore only" - Simplest option, no tools needed
